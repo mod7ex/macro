@@ -6,6 +6,11 @@
 
 ---
 
+> **PCE**
+- [PCE](https://fred.stlouisfed.org/series/PCE)
+
+---
+
 > **GDP**
 - [Real GDP pct change](https://fred.stlouisfed.org/series/A191RL1Q225SBEA) (A191RL1Q225SBEA)
 - [Nominal GDP](https://fred.stlouisfed.org/series/GDP) (GDP)
