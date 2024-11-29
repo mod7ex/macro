@@ -1,58 +1,58 @@
 > **CPI & PPI**
-- [CPIAUCSL](https://fred.stlouisfed.org/series/CPIAUCSL)
-- [CPILFESL](https://fred.stlouisfed.org/series/CPILFESL)
-- [PPIFGS](https://fred.stlouisfed.org/series/PPIFGS)
-- [PPILFE](https://fred.stlouisfed.org/series/PPILFE)
+- 1 [CPIAUCSL](https://fred.stlouisfed.org/series/CPIAUCSL)
+- 2 [CPILFESL](https://fred.stlouisfed.org/series/CPILFESL)
+- 3 [PPIFGS](https://fred.stlouisfed.org/series/PPIFGS)
+- 4 [PPILFE](https://fred.stlouisfed.org/series/PPILFE)
 
 ---
 
 > **PCE**
-- [PCE](https://fred.stlouisfed.org/series/PCE)
+- 5 [PCE](https://fred.stlouisfed.org/series/PCE)
 
 ---
 
 > **GDP**
-- [Real GDP pct change](https://fred.stlouisfed.org/series/A191RL1Q225SBEA) (A191RL1Q225SBEA)
-- [Nominal GDP](https://fred.stlouisfed.org/series/GDP) (GDP)
+- 6 [Real GDP pct change](https://fred.stlouisfed.org/series/A191RL1Q225SBEA) (A191RL1Q225SBEA)
+- 7 [Nominal GDP](https://fred.stlouisfed.org/series/GDP) (GDP)
 
 ---
 
 > **University of michigan Consumer Sentiment Index**
-- [UMCSI](https://data.sca.isr.umich.edu/data-archive/mine.php)
+- 8 [UMCSI](https://data.sca.isr.umich.edu/data-archive/mine.php)
 
 ---
 
 > **Building Permits Survey** (New residential construction)
-- [BPS](https://www.census.gov/econ/currentdata/)
+- 9 [BPS](https://www.census.gov/econ/currentdata/)
 
 ---
 
-> **Business Sentiment ISM index** (Paid)
+> **Business Sentiment ISM index**
 
-- [PMI Manufacturing](https://tradingeconomics.com/united-states/business-confidence)
+- 10 [PMI Manufacturing](https://www.investing.com/economic-calendar/ism-manufacturing-pmi-173)
 
-- [NMI Services](https://tradingeconomics.com/united-states/non-manufacturing-pmi)
+- 11 [NMI Services](https://www.investing.com/economic-calendar/ism-non-manufacturing-pmi-176)
 
 ---
 
 > **Employment**
 
-- [NFP](https://fred.stlouisfed.org/series/PAYEMS) (PAYEMS)
+- 12 [NFP](https://fred.stlouisfed.org/series/PAYEMS) (PAYEMS)
 
 ---
 
 > **Gov**
 
-- [Total Debt](https://fred.stlouisfed.org/series/GFDEBTN) (GFDEBTN)
+- 13 [Total Debt](https://fred.stlouisfed.org/series/GFDEBTN) (GFDEBTN)
 
-- [Federal Receipts](https://fred.stlouisfed.org/series/FYFR) (FYFR)
+- 14 [Federal Receipts](https://fred.stlouisfed.org/series/FYFR) (FYFR)
 
-- [Federal Net Outlays](https://fred.stlouisfed.org/series/FYONET) (FYONET)
+- 15 [Federal Net Outlays](https://fred.stlouisfed.org/series/FYONET) (FYONET)
 
-- [10Y T%](https://fred.stlouisfed.org/series/WGS10YR) (WGS10YR)
+- 16 [10Y T%](https://fred.stlouisfed.org/series/WGS10YR) (WGS10YR)
 
-- [Central Bank Balance Sheet](https://fred.stlouisfed.org/series/WALCL) (WALCL)
+- 18 [Central Bank Balance Sheet](https://fred.stlouisfed.org/series/WALCL) (WALCL)
 
-- [M2 money supply](https://fred.stlouisfed.org/series/M2) (M2)
+- 19 [M2 money supply](https://fred.stlouisfed.org/series/M2) (M2)
 
-- [Federal Funds Effective Rate](https://fred.stlouisfed.org/series/DFF) (DFF)
+- 20 [Federal Funds Effective Rate](https://fred.stlouisfed.org/series/DFF) (DFF)
