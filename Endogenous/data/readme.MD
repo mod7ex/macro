@@ -12,6 +12,7 @@
 | 10     | [PMI Manufacturing](https://www.investing.com/economic-calendar/ism-manufacturing-pmi-173)           | Monthly     | Business Sentiment ISM Index                           |
 | 11     | [NMI Services](https://www.investing.com/economic-calendar/ism-non-manufacturing-pmi-176)            | Monthly     | Business Sentiment ISM Index                           |
 | 12     | [NFP](https://fred.stlouisfed.org/series/PAYEMS) (PAYEMS)                                            | Monthly     | Employment                                             |
+| 12     | [Jobless claims]() ()                                            | Monthly     | Employment                                             |
 | 13     | [Total Debt](https://fred.stlouisfed.org/series/GFDEBTN) (GFDEBTN)                                   | -           | Gov                                                    |
 | 14     | [Federal Receipts](https://fred.stlouisfed.org/series/FYFR) (FYFR)                                   | -           | Gov                                                    |
 | 15     | [Federal Net Outlays](https://fred.stlouisfed.org/series/FYONET) (FYONET)                            | -           | Gov                                                    |
