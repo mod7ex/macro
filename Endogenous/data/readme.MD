@@ -1,9 +1,9 @@
 | **N°** | **Indicator**                                                                                        |**Frequency**| **Category**                                           |
 |--------|------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------|
-| 1      | [CPIAUCSL](https://fred.stlouisfed.org/series/CPIAUCSL)                                              | Monthly     | CPI & PPI                                              |
-| 2      | [CPILFESL](https://fred.stlouisfed.org/series/CPILFESL)                                              | Monthly     | CPI & PPI                                              |
-| 3      | [PPIFGS](https://fred.stlouisfed.org/series/PPIFGS)                                                  | Monthly     | CPI & PPI                                              |
-| 4      | [PPILFE](https://fred.stlouisfed.org/series/PPILFE)                                                  | Monthly     | CPI & PPI                                              |
+| 1      | [CPIAUCSL](https://fred.stlouisfed.org/series/CPIAUCSL)                                              | Monthly     | CPI                                                    |
+| 2      | [CPILFESL](https://fred.stlouisfed.org/series/CPILFESL)                                              | Monthly     | CPI                                                    |
+| 3      | [WPSFD49207](https://fred.stlouisfed.org/series/WPSFD49207)                                          | Monthly     | PPI                                                    |
+| 4      | [WPSFD4131](https://fred.stlouisfed.org/series/WPSFD4131)                                            | Monthly     | PPI                                                    |
 | 5      | [PCE](https://fred.stlouisfed.org/series/PCE)                                                        | Monthly     | PCE                                                    |
 | 6      | [Real GDP pct change](https://fred.stlouisfed.org/series/A191RL1Q225SBEA) (A191RL1Q225SBEA)          | Quarterly   | GDP                                                    |
 | 7      | [Nominal GDP](https://fred.stlouisfed.org/series/GDP) (GDP)                                          | Quarterly   | GDP                                                    |
