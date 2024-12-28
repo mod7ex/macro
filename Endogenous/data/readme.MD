@@ -15,7 +15,7 @@
 | 12     | [NFP](https://fred.stlouisfed.org/series/PAYEMS) (PAYEMS)                                            | Monthly     | Employment                                             |
 | 13     | [Jobless claims]()                                                                                   | Monthly     | Employment                                             |
 | 14     | [Unemployment Rate](https://fred.stlouisfed.org/series/UNRATE)                                       | Monthly     | Employment  UNRATE                                     |
-| 15     | [Total Debt](https://fred.stlouisfed.org/series/GFDEBTN) (GFDEBTN)                                   | -           | Gov                                                    |
+| 15     | [Total Debt](https://fred.stlouisfed.org/series/GFDEBTN) (GFDEBTN)                                   | -           | Gov                                                    | 
 | 16     | [Federal Receipts](https://fred.stlouisfed.org/series/FYFR) (FYFR)                                   | -           | Gov                                                    |
 | 17     | [Federal Net Outlays](https://fred.stlouisfed.org/series/FYONET) (FYONET)                            | -           | Gov                                                    |
 | 18     | [10Y T%](https://fred.stlouisfed.org/series/WGS10YR) (WGS10YR)                                       | -           | Gov                                                    |
