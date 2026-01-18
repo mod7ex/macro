@@ -1,28 +1,28 @@
 > Inflation
 
-| **N°** | **Indicator**                                                                                        |**Frequency**| **Category**                                           |
-|--------|------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------|
-| 1      | [CPIAUCSL](https://fred.stlouisfed.org/series/CPIAUCSL)                                              | Monthly     | CPI                                                    |
-| 2      | [CPILFESL](https://fred.stlouisfed.org/series/CPILFESL)                                              | Monthly     | CPI                                                    |
-| 3      | [WPSFD49207](https://fred.stlouisfed.org/series/WPSFD49207)                                          | Monthly     | PPI                                                    |
-| 4      | [WPSFD4131](https://fred.stlouisfed.org/series/WPSFD4131)                                            | Monthly     | PPI                                                    |
-| 5      | [PCEPILFE](https://fred.stlouisfed.org/series/PCEPILFE)                                              | Monthly     | PCE                                                    |
-| 5      | [PCEPI](https://fred.stlouisfed.org/series/PCEPI)                                                    | Monthly     | PCE                                                    |
+| **N°** | **Indicator**                                                  |**Frequency**| **Category**  |Description    |
+|--------|----------------------------------------------------------------|-------------|---------------|---------------|
+| 1      | [CPIAUCSL](https://fred.stlouisfed.org/series/CPIAUCSL)        | Monthly     | CPI           |Consumer Price Index for All Urban Consumers: All Items in U.S. City Average|
+| 2      | [CPILFESL](https://fred.stlouisfed.org/series/CPILFESL)        | Monthly     | CPI           |Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average|
+| 3      | [WPSFD49207](https://fred.stlouisfed.org/series/WPSFD49207)    | Monthly     | PPI           |               |
+| 4      | [WPSFD4131](https://fred.stlouisfed.org/series/WPSFD4131)      | Monthly     | PPI           |               |
+| 5      | [PCEPILFE](https://fred.stlouisfed.org/series/PCEPILFE)        | Monthly     | PCE           |               |
+| 5      | [PCEPI](https://fred.stlouisfed.org/series/PCEPI)              | Monthly     | PCE           |               |
 
 > Employment
 
-| **N°** | **Indicator**                                                                                        |**Frequency**| **Category**                                           |
-|--------|------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------|
-| 1      | [NFP](https://fred.stlouisfed.org/series/PAYEMS) (PAYEMS)                                            | Monthly     | Employment                                             |
-| 2      | [Jobless claims]()                                                                                   | Monthly     | Employment                                             |
-| 3      | [Unemployment Rate](https://fred.stlouisfed.org/series/UNRATE)                                       | Monthly     | Unemployment rate                                      |
+| **N°** | **Indicator**                                                  |**Frequency**| **Category**      |
+|--------|--------------------------------------------------------------- |-------------|-------------------|
+| 1      | [NFP](https://fred.stlouisfed.org/series/PAYEMS) (PAYEMS)      | Monthly     | Employment        |
+| 2      | [Jobless claims]()                                             | Monthly     | Employment        |
+| 3      | [Unemployment Rate](https://fred.stlouisfed.org/series/UNRATE) | Monthly     | Unemployment rate |
 
 > GDP
 
-| **N°** | **Indicator**                                                                                        |**Frequency**| **Category**                                           |
-|--------|------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------|
-| 1      | [Real GDP](https://fred.stlouisfed.org/series/A191RL1Q225SBEA) (A191RL1Q225SBEA)                     | Quarterly   | GDP                                                    |
-| 2      | [Nominal GDP](https://fred.stlouisfed.org/series/GDP) (GDP)                                          | Quarterly   | GDP                                                    |
+| **N°** | **Indicator**                                                                     |**Frequency**| **Category**  |
+|--------|-----------------------------------------------------------------------------------|-------------|---------------|
+| 1      | [Real GDP](https://fred.stlouisfed.org/series/A191RL1Q225SBEA) (A191RL1Q225SBEA)  | Quarterly   | GDP           |
+| 2      | [Nominal GDP](https://fred.stlouisfed.org/series/GDP) (GDP)                       | Quarterly   | GDP           |
 
 > Leading Indicators Surveys
 
@@ -50,8 +50,7 @@
 | **N°** | **Indicator**                                                                        |**Frequency**            | **Category**                                           |
 |--------|--------------------------------------------------------------------------------------|-------------------------|--------------------------------------------------------|
 | 1      | [Central Bank Balance Sheet](https://fred.stlouisfed.org/series/WALCL) (WALCL)       | Weekly, As of Wednesday | Gov                                                    |
-| 1      | [10Y T%](https://fred.stlouisfed.org/series/WGS10YR) (WGS10YR)                       | Weekly, Ending Friday   | Gov                                                    |
-|        |                                                                                      |                         |                                                        |
+| 1      | [10Y T%](https://fred.stlouisfed.org/series/WGS10YR) (WGS10YR)                       | Weekly, Ending Friday   | Gov                                                    |                   
 | 15     | [Total Debt](https://fred.stlouisfed.org/series/GFDEBTN) (GFDEBTN)                   | -                       | Gov                                                    | 
 | 16     | [Federal Receipts](https://fred.stlouisfed.org/series/FYFR) (FYFR)                   | -                       | Gov                                                    |
 | 17     | [Federal Net Outlays](https://fred.stlouisfed.org/series/FYONET) (FYONET)            | -                       | Gov                                                    |
