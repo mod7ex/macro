@@ -4,10 +4,10 @@
 |--------|----------------------------------------------------------------|-------------|---------------|---------------|
 | 1      | [CPIAUCSL](https://fred.stlouisfed.org/series/CPIAUCSL)        | Monthly     | CPI           |Consumer Price Index for All Urban Consumers: All Items in U.S. City Average|
 | 2      | [CPILFESL](https://fred.stlouisfed.org/series/CPILFESL)        | Monthly     | CPI           |Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average|
-| 3      | [WPSFD49207](https://fred.stlouisfed.org/series/WPSFD49207)    | Monthly     | PPI           |               |
-| 4      | [WPSFD4131](https://fred.stlouisfed.org/series/WPSFD4131)      | Monthly     | PPI           |               |
-| 5      | [PCEPILFE](https://fred.stlouisfed.org/series/PCEPILFE)        | Monthly     | PCE           |               |
-| 5      | [PCEPI](https://fred.stlouisfed.org/series/PCEPI)              | Monthly     | PCE           |               |
+| 3      | [WPSFD49207](https://fred.stlouisfed.org/series/WPSFD49207)    | Monthly     | PPI           |Producer Price Index by Commodity: Final Demand: Finished Goods|
+| 4      | [WPSFD4131](https://fred.stlouisfed.org/series/WPSFD4131)      | Monthly     | PPI           |Producer Price Index by Commodity: Final Demand: Finished Goods Less Food and Energy|
+| 5      | [PCEPILFE](https://fred.stlouisfed.org/series/PCEPILFE)        | Monthly     | PCE           |Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index)|
+| 5      | [PCEPI](https://fred.stlouisfed.org/series/PCEPI)              | Monthly     | PCE           |Personal Consumption Expenditures: Chain-type Price Index|
 
 > Employment
 
