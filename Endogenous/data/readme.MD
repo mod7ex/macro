@@ -32,19 +32,19 @@
 | 1      | [PMI Manufacturing](https://www.investing.com/economic-calendar/ism-manufacturing-pmi-173)           | Monthly     | Business Sentiment ISM Index                           |
 | 2      | [NMI Services](https://www.investing.com/economic-calendar/ism-non-manufacturing-pmi-176)            | Monthly     | Business Sentiment ISM Index                           |
 | 3      | [UMCSI](https://data.sca.isr.umich.edu/data-archive/mine.php)                                        | Monthly     | University of Michigan Consumer Sentiment Index        |
-| 4      | [BPS](https://www.census.gov/econ/currentdata/)                                                      | Monthly     | Building Permits Survey (New residential construction) |
+| 4      | [BPS](https://www.census.gov/econ/currentdata/) or [FED](https://fred.stlouisfed.org/series/PERMIT)  | Monthly     | Building Permits Survey (New residential construction) |
 
-<!-- > Interest Rates -->
+> Interest Rates
 
-<!-- | **N°** | **Indicator**                                                                                        |**Frequency**| **Category**                                           | -->
-<!-- |--------|------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------| -->
-<!-- | 1      | [Federal Funds Effective Rate](https://fred.stlouisfed.org/series/FEDFUNDS) (FEDFUNDS)               | Monthly     | Interest Rates                                         | -->
+| **N°** | **Indicator**                                                                                        |**Frequency**| **Category**                                           |
+|--------|------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------|
+| 1      | [Federal Funds Effective Rate](https://fred.stlouisfed.org/series/FEDFUNDS) (FEDFUNDS)               | Monthly     | Interest Rates                                         |
 
-<!-- > Money supply -->
+> Money supply
 
-<!-- | **N°** | **Indicator**                                                                                        |**Frequency**| **Category**                                           | -->
-<!-- |--------|------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------| -->
-<!-- | 1      | [M2 money supply](https://fred.stlouisfed.org/series/M2SL) (M2SL)                                    | Monthly     | Gov                                                    | -->
+| **N°** | **Indicator**                                                                                        |**Frequency**| **Category**                                           |
+|--------|------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------|
+| 1      | [M2 money supply](https://fred.stlouisfed.org/series/M2SL) (M2SL)                                    | Monthly     | Gov                                                    |
 
 <!-- > Other -->
 
