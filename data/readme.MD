@@ -11,11 +11,11 @@
 
 > Labor Market
 
-**Indicator**                                                           |**Frequency**         |
-------------------------------------------------------------------------|----------------------|
-[NFP](https://fred.stlouisfed.org/series/PAYEMS) (PAYEMS)               | Monthly              |
-[Unemployment Rate](https://fred.stlouisfed.org/series/UNRATE) (UNRATE) | Monthly              |
-[Jobless claims]()                                                      | Monthly              |
+**Indicator**                                                           |**Frequency** |
+------------------------------------------------------------------------|--------------|
+[NFP](https://fred.stlouisfed.org/series/PAYEMS) (PAYEMS)               | Monthly      |
+[Unemployment Rate](https://fred.stlouisfed.org/series/UNRATE) (UNRATE) | Monthly      |
+[Jobless claims]()                                                      | Monthly      |
 
 > Growth / Activity
 
@@ -49,5 +49,5 @@
 | [Total Debt](https://fred.stlouisfed.org/series/GFDEBTN) (GFDEBTN)                   | Quarterly               | Gov                                                    |
 | [T10%](https://fred.stlouisfed.org/series/WGS10YR) (WGS10YR)                         | Weekly, Ending Friday   | Gov                                                    |
 | [Yield curve](https://fred.stlouisfed.org/series/T10Y2Y) (T10Y2Y)                    | daily, Ending Friday    | Gov                                                    |
-<!-- | 16     | [Federal Receipts](https://fred.stlouisfed.org/series/FYFR) (FYFR)                   | -                       | Gov                                                    | -->
-<!-- | 17     | [Federal Net Outlays](https://fred.stlouisfed.org/series/FYONET) (FYONET)            | -                       | Gov                                                    | -->
+<!-- | [Federal Receipts](https://fred.stlouisfed.org/series/FYFR) (FYFR)                   | -                       | Gov                                                    | -->
+<!-- | [Federal Net Outlays](https://fred.stlouisfed.org/series/FYONET) (FYONET)            | -                       | Gov                                                    | -->
