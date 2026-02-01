@@ -1,57 +1,53 @@
 > Inflation
 
-| **N°** | **Indicator**                                                  |**Frequency**| **Category**  |Description    |
-|--------|----------------------------------------------------------------|-------------|---------------|---------------|
-| 1      | [CPIAUCSL](https://fred.stlouisfed.org/series/CPIAUCSL)        | Monthly     | CPI           |Consumer Price Index for All Urban Consumers: All Items in U.S. City Average|
-| 2      | [CPILFESL](https://fred.stlouisfed.org/series/CPILFESL)        | Monthly     | CPI           |Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average|
-| 3      | [WPSFD49207](https://fred.stlouisfed.org/series/WPSFD49207)    | Monthly     | PPI           |Producer Price Index by Commodity: Final Demand: Finished Goods|
-| 4      | [WPSFD4131](https://fred.stlouisfed.org/series/WPSFD4131)      | Monthly     | PPI           |Producer Price Index by Commodity: Final Demand: Finished Goods Less Food and Energy|
-| 5      | [PCEPILFE](https://fred.stlouisfed.org/series/PCEPILFE)        | Monthly     | PCE           |Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index)|
-| 5      | [PCEPI](https://fred.stlouisfed.org/series/PCEPI)              | Monthly     | PCE           |Personal Consumption Expenditures: Chain-type Price Index|
+|**Indicator**                                                      |**Frequency**|Description    |
+|-------------------------------------------------------------------|-------------|---------------|
+|CPI [CPIAUCSL](https://fred.stlouisfed.org/series/CPIAUCSL)        | Monthly     |Consumer Price Index for All Urban Consumers: All Items in U.S. City Average|
+|CPI [CPILFESL](https://fred.stlouisfed.org/series/CPILFESL)        | Monthly     |Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average|
+|PPI [WPSFD49207](https://fred.stlouisfed.org/series/WPSFD49207)    | Monthly     |Producer Price Index by Commodity: Final Demand: Finished Goods|
+|PPI [WPSFD4131](https://fred.stlouisfed.org/series/WPSFD4131)      | Monthly     |Producer Price Index by Commodity: Final Demand: Finished Goods Less Food and Energy|
+|PCE [PCEPILFE](https://fred.stlouisfed.org/series/PCEPILFE)        | Monthly     |Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index)|
+|PCE [PCEPI](https://fred.stlouisfed.org/series/PCEPI)              | Monthly     |Personal Consumption Expenditures: Chain-type Price Index|
 
-> Employment
+> Labor Market
 
-| **N°** | **Indicator**                                                  |**Frequency**|
-|--------|--------------------------------------------------------------- |-------------|
-| 1      | [NFP](https://fred.stlouisfed.org/series/PAYEMS) (PAYEMS)      | Monthly     |
-| 2      | [Jobless claims]()                                             | Monthly     |
-| 3      | [Unemployment Rate](https://fred.stlouisfed.org/series/UNRATE) (UNRATE) | Monthly     |
+**Indicator**                                                           |**Frequency**         |
+------------------------------------------------------------------------|----------------------|
+[NFP](https://fred.stlouisfed.org/series/PAYEMS) (PAYEMS)               | Monthly              |
+[Unemployment Rate](https://fred.stlouisfed.org/series/UNRATE) (UNRATE) | Monthly              |
+[Jobless claims]()                                                      | Monthly              |
 
-> GDP
+> Growth / Activity
 
-| **N°** | **Indicator**                                                                      |**Frequency**| **Category**  |
-|--------|------------------------------------------------------------------------------------|-------------|---------------|
-| 2      | [Nominal GDP](https://fred.stlouisfed.org/series/GDP) (GDP)                        | Quarterly   | GDP           |
-| 1      | [Real GDP](https://fred.stlouisfed.org/series/A191RL1Q225SBEA) (A191RL1Q225SBEA)   | Quarterly   | GDP           |
-| 1      | [% change in real GDP over time](https://fred.stlouisfed.org/series/GDPC1) (GDPC1) | Quarterly   | GDP           |
+| **Indicator**                                                                                          |**Frequency**| **Category**                                           |
+|--------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------|
+| [Nominal GDP](https://fred.stlouisfed.org/series/GDP) (GDP)                                            | Quarterly   | GDP                                                    |
+| [Real GDP](https://fred.stlouisfed.org/series/GDPC1) (GDPC1)                                           | Quarterly   | GDP                                                    |
+| [% change in real GDP over time](https://fred.stlouisfed.org/series/A191RL1Q225SBEA) (A191RL1Q225SBEA) | Quarterly   | GDP                                                    |
+| [PMI Manufacturing](https://www.investing.com/economic-calendar/ism-manufacturing-pmi-173)             | Monthly     | Business Sentiment ISM Index                           |
+| [NMI Services](https://www.investing.com/economic-calendar/ism-non-manufacturing-pmi-176)              | Monthly     | Business Sentiment ISM Index                           |
+| [BPS](https://www.census.gov/econ/currentdata/) or [FED](https://fred.stlouisfed.org/series/PERMIT)    | Monthly     | Building Permits Survey (New residential construction) |
 
-> Leading Indicators Surveys
+> Consumer / Demand
 
-| **N°** | **Indicator**                                                                                        |**Frequency**| **Category**                                           |
-|--------|------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------|
-| 1      | [PMI Manufacturing](https://www.investing.com/economic-calendar/ism-manufacturing-pmi-173)           | Monthly     | Business Sentiment ISM Index                           |
-| 2      | [NMI Services](https://www.investing.com/economic-calendar/ism-non-manufacturing-pmi-176)            | Monthly     | Business Sentiment ISM Index                           |
-| 3      | [UMCSI](https://data.sca.isr.umich.edu/data-archive/mine.php)                                        | Monthly     | University of Michigan Consumer Sentiment Index        |
-| 4      | [BPS](https://www.census.gov/econ/currentdata/) or [FED](https://fred.stlouisfed.org/series/PERMIT)  | Monthly     | Building Permits Survey (New residential construction) |
+| **Indicator**                                                                                        |**Frequency**| **Category**                                           |
+|------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------|
+| [UMCSI](https://data.sca.isr.umich.edu/data-archive/mine.php)                                        | Monthly     | University of Michigan Consumer Sentiment Index        |
 
-> Interest Rates
+> Monetary Policy & Liquidity
 
-| **N°** | **Indicator**                                                                                        |**Frequency**| **Category**                                           |
-|--------|------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------|
-| 1      | [Federal Funds Effective Rate](https://fred.stlouisfed.org/series/FEDFUNDS) (FEDFUNDS)               | Monthly     | Interest Rates                                         |
+| **Indicator**                                                                                        |**Frequency**| **Category**                                           |
+|------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------|
+| [Federal Funds Effective Rate](https://fred.stlouisfed.org/series/FEDFUNDS) (FEDFUNDS)               | Monthly     | Interest Rates                                         |
+| [M2 money supply](https://fred.stlouisfed.org/series/M2SL) (M2SL)                                    | Monthly     | Gov                                                    |
+| [Central Bank Balance Sheet](https://fred.stlouisfed.org/series/WALCL) (WALCL)                       | Weekly      | Gov                                                    |
 
-> Money supply
+> Rates / Fiscal / Debt
 
-| **N°** | **Indicator**                                                                                        |**Frequency**| **Category**                                           |
-|--------|------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------|
-| 1      | [M2 money supply](https://fred.stlouisfed.org/series/M2SL) (M2SL)                                    | Monthly     | Gov                                                    |
-
-<!-- > Other -->
-
-<!-- | **N°** | **Indicator**                                                                        |**Frequency**            | **Category**                                           | -->
-<!-- |--------|--------------------------------------------------------------------------------------|-------------------------|--------------------------------------------------------| -->
-<!-- | 1      | [Central Bank Balance Sheet](https://fred.stlouisfed.org/series/WALCL) (WALCL)       | Weekly, As of Wednesday | Gov                                                    | -->
-<!-- | 1      | [10Y T%](https://fred.stlouisfed.org/series/WGS10YR) (WGS10YR)                       | Weekly, Ending Friday   | Gov                                                    | -->
-<!-- | 15     | [Total Debt](https://fred.stlouisfed.org/series/GFDEBTN) (GFDEBTN)                   | -                       | Gov                                                    | -->
+| **Indicator**                                                                        |**Frequency**            | **Category**                                           |
+|--------------------------------------------------------------------------------------|-------------------------|--------------------------------------------------------|
+| [Total Debt](https://fred.stlouisfed.org/series/GFDEBTN) (GFDEBTN)                   | Quarterly               | Gov                                                    |
+| [T10%](https://fred.stlouisfed.org/series/WGS10YR) (WGS10YR)                         | Weekly, Ending Friday   | Gov                                                    |
+| [Yield curve](https://fred.stlouisfed.org/series/T10Y2Y) (T10Y2Y)                    | daily, Ending Friday    | Gov                                                    |
 <!-- | 16     | [Federal Receipts](https://fred.stlouisfed.org/series/FYFR) (FYFR)                   | -                       | Gov                                                    | -->
 <!-- | 17     | [Federal Net Outlays](https://fred.stlouisfed.org/series/FYONET) (FYONET)            | -                       | Gov                                                    | -->
