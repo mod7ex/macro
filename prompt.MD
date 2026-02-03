@@ -1,27 +1,26 @@
 how to create a scoring system so that we give each index a score and weight based on its importance and current economic situation 
 combining these scores to get a bias and use this system as a macro strategy
 
-CPI
-PPI
-PCE
-
+CPIAUCSL
+CPILFESL
+WPSFD49207
+WPSFD4131
+PCEPILFE
+PCEPI
 NFP
-Jobless claims
 Unemployment Rate
-
+Jobless claims
 Nominal GDP
 Real GDP
-
-ISM Index (PMI, NMI)
-University of Michigan Consumer Sentiment Index
+PMI Manufacturing
+NMI Services
 Building Permits Survey (New residential construction)
-
+University of Michigan Consumer Sentiment Index
 Federal Funds Effective Rate
-
 M2 money supply
-
 Central Bank Balance Sheet
-10Y T%
 Total Debt
+T10%
+Yield curve
 Federal Receipts
 Federal Net Outlays
