@@ -28,7 +28,7 @@
 | [% change in real GDP over time](https://fred.stlouisfed.org/series/A191RL1Q225SBEA) (A191RL1Q225SBEA)     | Quarterly   |
 | [ISM PMI Manufacturing](https://www.investing.com/economic-calendar/ism-manufacturing-pmi-173)             | Monthly     |
 | [ISM NMI Services](https://www.investing.com/economic-calendar/ism-non-manufacturing-pmi-176)              | Monthly     |
-| [BPS](https://www.census.gov/econ/currentdata/) or [FED](https://fred.stlouisfed.org/series/PERMIT)        | Monthly     |
+| PERMIT [BPS](https://www.census.gov/econ/currentdata/) or [FED](https://fred.stlouisfed.org/series/PERMIT) | Monthly     |
 
 ---
 > Consumer / Demand
@@ -53,9 +53,9 @@
 |--------------------------------------------------------------------------------------|--------------|
 | [Total Debt](https://fred.stlouisfed.org/series/GFDEBTN) (GFDEBTN)                   | Quarterly    |
 
----
 > Interest Rates & Yield Structure
 
+---
 | **Indicator**                                                                        |**Frequency**          |
 |--------------------------------------------------------------------------------------|-----------------------|
 | [T10%](https://fred.stlouisfed.org/series/WGS10YR) (WGS10YR)                         | Weekly, Ending Friday |
