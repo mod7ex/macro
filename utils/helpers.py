@@ -5,20 +5,49 @@ import pandas as pd
 import numpy as np
 import json
 import os
+import requests
+import pandas as pd
 from .constants import DATA_FOLDER_PATH 
+from dotenv import load_dotenv
 
-# # GDP_df
-# def real_gdp_df():
-#     GDP_df = pd.read_csv('data/A191RL1Q225SBEA.csv')
-#     GDP_df['DATE'] = pd.to_datetime(GDP_df['DATE'])
-#     GDP_df.set_index('DATE', inplace=True)
-#     GDP_df.columns = ['GDP']
-#     return GDP_df
+load_dotenv()
+
+API_KEY = os.getenv("API_KEY")
 
 # --------------------------------------------------------------------------
 
-def load_data():
-    pass
+def load_report_data(series_id, update=False):
+    report_path = os.path.join(DATA_FOLDER_PATH, f'{series_id}.csv')
+
+    if os.path.exists(report_path) and not update:
+        df =  pd.read_csv(report_path)
+    else :
+        url = "https://api.stlouisfed.org/fred/series/observations"
+
+        params = {
+            "series_id": series_id,
+            "api_key": API_KEY,
+            "file_type": "json"
+        }
+
+        response = requests.get(url, params=params)
+
+        data = response.json()
+
+        df = pd.DataFrame(data['observations'])
+
+        df = df[['date', 'value']]
+
+        df.columns = ['DATE', series_id]
+
+        df = df[df[series_id] != '.']
+
+        df.to_csv(report_path)
+
+    df.set_index('DATE', inplace=True)
+    df.index = pd.to_datetime(df.index)
+
+    return df
 
 # --------------------------------------------------------------------------
 

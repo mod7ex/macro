@@ -1,0 +1,90 @@
+{
+    "FEDFUNDS": {
+        "title": "Federal Funds Effective Rate",
+        "unit": "Percent"
+    },
+    "M2SL": {
+        "title": "M2 ",
+        "unit": "Billions of Dollars"
+    },
+    "WALCL": {
+        "title": "Assets: Total Assets: Total Assets (Less Eliminations from Consolidation): Wednesday Level",
+        "unit": "Millions of U.S. Dollars"
+    },
+    "GFDEBTN": {
+        "title": "Federal Debt: Total Public Debt",
+        "unit": "Millions of U.S. Dollars"
+    },
+    "WGS10YR": {
+        "title": "Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis",
+        "unit": "Percent"
+    },
+    "T10Y2Y": {
+        "title": "10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity",
+        "unit": "Percent"
+    },
+    "FYFR": {
+        "title": "Federal Receipts",
+        "unit": "Millions of Dollars"
+    },
+    "FYONET": {
+        "title": "Federal Net Outlays",
+        "unit": "Millions of Dollars"
+    },
+    "GDPC1": {
+        "title": "Real Gross Domestic Product",
+        "unit": "Billions of Chained 2017 Dollars"
+    },
+    "GDP": {
+        "title": "Gross Domestic Product",
+        "unit": "Billions of Dollars"
+    },
+    "CPIAUCSL": {
+        "title": "Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+        "unit": ""
+    },
+    "CPILFESL": {
+        "title": "Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average",
+        "unit": ""
+    },
+    "WPSFD49207": {
+        "title": "Producer Price Index by Commodity: Final Demand: Finished Goods",
+        "unit": ""
+    },
+    "WPSFD4131": {
+        "title": "Producer Price Index by Commodity: Final Demand: Finished Goods Less Foods and Energy",
+        "unit": ""
+    },
+    "PCEPILFE": {
+        "title": "Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index)",
+        "unit": ""
+    },
+    "PCEPI": {
+        "title": "Personal Consumption Expenditures: Chain-type Price Index",
+        "unit": ""
+    },
+    "PMI": {
+        "title": "ISM Manufacturing Purchasing Managers Index",
+        "unit": "%"
+    },
+    "NMI": {
+        "title": "ISM Non-Manufacturing Purchasing Managers Index",
+        "unit": "%"
+    },
+    "PAYEMS": {
+        "title": "All Employees, Total Nonfarm (NFP)",
+        "unit": "Thousands of Persons"
+    },
+    "UNRATE": {
+        "title": "Unemployment Rate",
+        "unit": "%"
+    },
+    "PERMIT": {
+        "title": "New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units",
+        "unit": "Thousands of Units"
+    },
+    "UMCSI": {
+        "title": "University of Michigan Consumer Sentiment Index",
+        "unit": ""
+    }
+}
