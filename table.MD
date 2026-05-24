@@ -1,0 +1,6 @@
+| US10Y yields are…   | And market sentiment is…                                                                                              | Then look to…                                               |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| **RISING rapidly**  | “Yields rising because of Federal Reserve expected to hike interest rates”                                            | **Long USD** against JPY, EUR, and CHF                      |
+| **RISING slowly**   | “Yields up on positive growth expectations and FED keeping rates high (but not hiking)”                               | **Long USD** against currency where central bank is cutting |
+| **FALLING slowly**  | “Yields down because FED expected to cut rates but economy still holding up well”                                     | **Long S&P500**, short USD against AUD, NZD, CAD            |
+| **FALLING rapidly** | “Yields falling rapidly because of growth concerns, recession fears, FED cutting because of downside risks to growth” | **Short USD** against JPY, EUR, and CHF                     |
